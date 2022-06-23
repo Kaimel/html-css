@@ -1,0 +1,14 @@
+@charset "UTF-8";
+
+@font-face {
+    font-family: android;
+    src: url('fontes/idroid.otf') format('truetype');
+}
+body { 
+    font-family: android;
+}
+
+#nav{
+    font: arial;
+    text-decoration: underline;
+}
